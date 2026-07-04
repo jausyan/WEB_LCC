@@ -6,7 +6,7 @@ Web live scoring lomba cerdas cermat (dan lomba lain), dengan dua babak: **Quart
 
 ---
 
-## Request 
+## Request definedd
 
 Poin-poin permintaan client (sumber kebenaran fitur):
 
