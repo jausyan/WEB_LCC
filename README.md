@@ -72,7 +72,7 @@ Semua perubahan score **broadcast realtime** ke semua device via Supabase Realti
 
 ---
 
-## 🗄️ Struktur Database (Supabase)
+## Struktur Database (Supabase)
 
 ### Tabel `matches`
 Mewakili satu sesi/babak lomba.
